@@ -1,0 +1,6 @@
+da 1
+sudoku1.txt 1
+ssda 2
+sudoku2.txt 2
+sudoku3.txt 3
+TABLERO.txt 3

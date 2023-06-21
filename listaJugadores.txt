@@ -1,0 +1,6 @@
+Agustin  1
+Alex  3
+Ana  22
+Belen  50
+Burro  3
+alex  1
